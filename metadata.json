@@ -1,0 +1,10 @@
+{
+	"author": "paulscode",
+	"email": "development@paulscode.de",
+	"website": "www.paulscode.de",
+	"version": "1.0",
+	"releaseDate": "2021-08-10",
+	"license": "MIT",
+	"compatible": "3.5",
+	"notes": "used mediumish as a base for extending with my personal touch"
+}
