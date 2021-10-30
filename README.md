@@ -1,9 +1,14 @@
 # Paulish theme for Bludit
-Paulish is a Bludit theme based on Mediumish with some change behaviour. Similar look and feel, Paulish is the perfect blog theme.
+
+[![Gitter](https://badges.gitter.im/paulscode-de/community.svg)](https://gitter.im/paulscode-de/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+Paulish is a Bludit theme based on Mediumish with some change behaviour. Similar look and feel, Paulish is the perfect
+blog theme.
 
 Live Preview: [blog.f1nalboss.de](https://blog.f1nalboss.de)
 
 ## Features
+
 - Bootstrap 4.0
 - Responsive
 - Cross Browser Compatible
