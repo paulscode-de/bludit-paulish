@@ -5,7 +5,7 @@
 Paulish is a Bludit theme based on Mediumish with some change behaviour. Similar look and feel, Paulish is the perfect
 blog theme.
 
-Live Preview: [blog.f1nalboss.de](https://blog.f1nalboss.de)
+Old Theme used in my previous blog at [www.knulst.de](www.knulst.de)
 
 ## Features
 
